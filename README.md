@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**AbdelMagedd/AbdelMagedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BackEnd+Developer;Second)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
