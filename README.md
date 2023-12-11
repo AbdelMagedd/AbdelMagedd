@@ -8,9 +8,3 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
-Connect with Me :
- 
-
-🛠  Tech Stack
-JavaScript  HTML  CSS  Node.js  Git  GitHub  Visual Studio Code  MongoDB  Express  ReactNative 
-
